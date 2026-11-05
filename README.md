@@ -200,7 +200,6 @@ categorical_features = X_train.select_dtypes(exclude="number").columns.tolist()
 
 > 📝 **To be completed from actual analysis results.** Summarize the strongest patterns you observed, include relevant percentages, and mention limitations such as missing cabin data or small subgroup sizes.
 
-No accuracy scores or survival statistics have been fabricated in this README.
 
 ## 🗂️ Project Structure
 
