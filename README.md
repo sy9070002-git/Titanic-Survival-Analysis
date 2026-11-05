@@ -193,8 +193,8 @@ categorical_features = X_train.select_dtypes(exclude="number").columns.tolist()
 | Total passengers analyzed | 891 |
 | Overall survival rate | 38.38% |
 | Highest observed survival-rate group | Female passengers |
-| Logistic Regression test accuracy | _Pending_ |
-| Test F1-score | _Pending_ |
+| Logistic Regression test accuracy | 0.80 |
+| Test F1-score | 0.72 |
 
 ### Key Findings
 
