@@ -190,9 +190,9 @@ categorical_features = X_train.select_dtypes(exclude="number").columns.tolist()
 
 | Metric | Your result |
 |:--|--:|
-| Total passengers analyzed | _Pending_ |
-| Overall survival rate | _Pending_ |
-| Highest observed survival-rate group | _Pending_ |
+| Total passengers analyzed | 891 |
+| Overall survival rate | 38.38% |
+| Highest observed survival-rate group | Female passengers |
 | Logistic Regression test accuracy | _Pending_ |
 | Test F1-score | _Pending_ |
 
